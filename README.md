@@ -1,2 +1,6 @@
 # pruebas
-mi primer repositorio en GitHub
+
+# Soy una mujer ciega, aprenderé a programar para hacer complementos de NVDA y muchas cositas.
+
+
+
